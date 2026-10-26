@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build-venv/
+build/
+dist/
+releases/
+*.log
+.DS_Store
+vendor/tesseract/
+
+# Local sample documents and previous build bundle may contain private data
+# or binaries that are not part of the source release.
+img3.pdf
+WINDOWS_BUILD_KIT.zip
